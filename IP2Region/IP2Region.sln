@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IP2Region", "IP2Region.csproj", "{DD57D391-E7F8-4074-8FE9-75F6AF83F5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ip2Region_test", "..\Ip2Region_test\Ip2Region_test.csproj", "{AB583B5B-EFF3-4239-A437-FD5EF522EFF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD57D391-E7F8-4074-8FE9-75F6AF83F5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD57D391-E7F8-4074-8FE9-75F6AF83F5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD57D391-E7F8-4074-8FE9-75F6AF83F5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD57D391-E7F8-4074-8FE9-75F6AF83F5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB583B5B-EFF3-4239-A437-FD5EF522EFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB583B5B-EFF3-4239-A437-FD5EF522EFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB583B5B-EFF3-4239-A437-FD5EF522EFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB583B5B-EFF3-4239-A437-FD5EF522EFF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66512E9F-4DD6-4D2B-B985-38C2A1A00C1D}
+	EndGlobalSection
+EndGlobal
